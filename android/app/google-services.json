@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886974889969",
+    "firebase_url": "https://online-doctor-chamber.firebaseio.com",
+    "project_id": "online-doctor-chamber",
+    "storage_bucket": "online-doctor-chamber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886974889969:android:a4fde022381dd69f2fce50",
+        "android_client_info": {
+          "package_name": "com.example.online_doctor_chember"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886974889969-27sh2j1ndn7s58oplvduu98i8e6b4i7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpyvJS_vQpgfJtA1F7HDxDWtldNC2SPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886974889969-27sh2j1ndn7s58oplvduu98i8e6b4i7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

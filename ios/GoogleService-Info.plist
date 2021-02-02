@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>886974889969-sinv8kj92u2e5cmmrme1cm08g9kohi0e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.886974889969-sinv8kj92u2e5cmmrme1cm08g9kohi0e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAu6_Dr3DwqZuar6G6f7QLIWzSQQCICU-A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>886974889969</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.icddrb.onlineDoctorChember</string>
+	<key>PROJECT_ID</key>
+	<string>online-doctor-chamber</string>
+	<key>STORAGE_BUCKET</key>
+	<string>online-doctor-chamber.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:886974889969:ios:84b580214a1a46472fce50</string>
+	<key>DATABASE_URL</key>
+	<string>https://online-doctor-chamber.firebaseio.com</string>
+</dict>
+</plist>
