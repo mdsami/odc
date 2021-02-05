@@ -24,8 +24,6 @@
 	<false/>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>NSCameraUsageDescription</key>
-	<string>Access camera</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Access microphone</string>
 	<key>UILaunchStoryboardName</key>
@@ -47,5 +45,21 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSContactsUsageDescription</key>
+	<string>Access camera</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Access Calender</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Access Location</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Access Photos</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Access Location when need</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Access Motion</string>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>Access Music</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Access Spech</string>
 </dict>
 </plist>
